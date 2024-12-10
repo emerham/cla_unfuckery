@@ -1,0 +1,19 @@
+{
+    "name": "brabhamm/cla_unfuckery",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Brabhamm\\ClaUnfuckery\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthew  Brabham",
+            "email": "matthew.brabham@oregonstate.edu"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "league/csv": "^9.19"
+    }
+}
